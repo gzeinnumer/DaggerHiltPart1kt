@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624637437273</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="README.md">
+      <created>1624638026209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624638026209</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -166,14 +173,14 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1040" y="-1080" key="CommitChangelistDialog2" timestamp="1624637436778">
+    <state x="1040" y="-1080" key="CommitChangelistDialog2" timestamp="1624638025734">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="1040" y="-1080" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1624637436778" />
-    <state x="1287" y="-970" key="Vcs.Push.Dialog.v2" timestamp="1624637439630">
+    <state x="1040" y="-1080" key="CommitChangelistDialog2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1624638025734" />
+    <state x="1287" y="-970" key="Vcs.Push.Dialog.v2" timestamp="1624638028474">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
-    <state x="1287" y="-970" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1624637439630" />
+    <state x="1287" y="-970" key="Vcs.Push.Dialog.v2/0.0.1366.738/-161.-1080.2560.1050@-161.-1080.2560.1050" timestamp="1624638028474" />
     <state x="1210" y="-1062" width="970" height="719" key="dock-window-1" timestamp="1624637967910">
       <screen x="-161" y="-1080" width="2560" height="1050" />
     </state>
