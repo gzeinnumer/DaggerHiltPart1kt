@@ -39,7 +39,7 @@ dependencies {
 ```
 
 #### Todo 3
-```gradle
+```kotlin
 //todo 3
 @HiltAndroidApp
 class MyApp : MultiDexApplication()
@@ -57,7 +57,7 @@ class MyApp : MultiDexApplication()
 ```
 
 #### Todo 4
-```gradle
+```kotlin
 //todo 4
 @Module
 @InstallIn(ApplicationComponent::class)
@@ -68,7 +68,7 @@ object AppModule{
 ```
 
 #### Todo 5
-```gradle
+```kotlin
 //todo 5
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
